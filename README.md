@@ -25,6 +25,9 @@ The pipeline is implemented using Kaggle notebooks:
 | Training | ConvNeXt-base training on the training set | https://www.kaggle.com/code/yosukeyama/glioma-mdc2025-convnext-base-tr-128/notebook |
 | Inference | One-shot inference for challenge submission | https://www.kaggle.com/code/yosukeyama/glioma-mdc2025-one-shot-infer |
 
+The trained ConvNeXt-base model weights are available in the output section of the training notebook:
+https://www.kaggle.com/code/yosukeyama/glioma-mdc2025-convnext-base-tr-128/output
+
 ---
 
 ## Repository Structure
