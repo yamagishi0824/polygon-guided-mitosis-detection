@@ -31,9 +31,9 @@ The pipeline is implemented using Kaggle notebooks:
 ```
 .
 ├── notebooks/
-│ ├── preprocess.ipynb # Kaggle Preprocessing Notebook
-│ ├── train.ipynb # Kaggle Training Notebook
-│ └── infer.ipynb # Kaggle Inference Notebook
+│ ├── 0_preprocess.ipynb # Kaggle Preprocessing Notebook
+│ ├── 1_train.ipynb # Kaggle Training Notebook
+│ └── 2_infer.ipynb # Kaggle Inference Notebook
 └── README.md
 
 ````
