@@ -7,7 +7,8 @@ This repository contains the official implementation for the ISBI 2025 challenge
 Yosuke Yamagishi, Shouhei Hanaoka  
 2025 IEEE 22nd International Symposium on Biomedical Imaging (ISBI)
 
-Paper: https://ieeexplore.ieee.org/abstract/document/10980953/
+Our Solution Paper: https://ieeexplore.ieee.org/abstract/document/10980953/  
+Official Challenge Page: https://www.kaggle.com/competitions/glioma-mcd-2025
 
 ---
 
